@@ -3,7 +3,7 @@
   ![MIT](https://img.shields.io/badge/license-MIT-brightgreen)
 
   ## Description
-  Noteworthy is a note taking app that uses Express. Notes are stored in the cloud on the Express server so they can be accessed anywhere.
+  Note-Taker is a note taking app that uses Express. Notes are stored in the cloud on the Express server so they can be accessed anywhere.
 
   **Heroku Link**
   [Live Deployment](https://fast-beyond-24313.herokuapp.com/)
@@ -17,10 +17,11 @@
   * [Questions](#questions)
 
   ## Installation
-  Noteworthy does not require any installation to use, you just need to enter the URL to the Express server in your browser to access the app. If you wish to view the code or contribute to the project, you would need to clone the Git repository to your local machine.
+  Note-Taker does not require any installation to use, you just need to enter the URL to the Express server in your browser to access the app. If you wish to view the code or contribute to the project, you would need to clone the Git repository to your local machine.
 
   ## Usage
-  1) Navigate your browser to the URL of the server, you will see the Noteworthy splash screen. 2) Click on the "Get Started" button and you will be taken to the notes page. If you have any existing notes already saved in the app, they will be displayed in the column along the left hand side. 
+  1) Navigate your browser to the URL of the server, you will see the Note-Taker splash screen. 
+  2) Click on the "Get Started" button and you will be taken to the notes page. If you have any existing notes already saved in the app, they will be displayed in the column along the left hand side. 
   
   **To write a new note:**
   Click on the pencil icon, you can then enter a note title and your note text in the text fields below. When your note is filled out, a Save icon will appear next to the Write icon. Click Save and your note will be saved to the Noteworthy server. 
